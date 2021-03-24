@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Episode 3 in Folder" />
+			<Item Name="Columns.Folder.Caption" Value="Episode 3 folder" />
+			<Item Name="Columns.UsrEpisode3.Caption" Value="Episode 3" />
+		</Items>
+	</Group>
+</Resources>

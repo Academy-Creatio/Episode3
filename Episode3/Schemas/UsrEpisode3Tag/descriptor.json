@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9e5c6863-fe5f-4732-9ab8-10febf1cd454",
+    "Name": "UsrEpisode3Tag",
+    "ModifiedOnUtc": "\/Date(1616593816000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Episode 3 section tag"
+  }
+}

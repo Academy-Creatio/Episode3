@@ -1,17 +1,17 @@
-{
+﻿{
   "Descriptor": {
     "UId": "de4e7431-9792-4fde-8f0b-340ead1dabf3",
     "PackageVersion": "7.8.0",
     "Name": "Episode3",
-    "ModifiedOnUtc": "/Date(1616591831000)/",
+    "ModifiedOnUtc": "\/Date(1616591831000)\/",
     "Maintainer": "Customer",
-	"Description": "Package for Episode 3",
+    "Description": "Package for Episode 3",
     "DependsOn": [
-		{
-			"UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
-			"PackageVersion": "7.8.0",
-			"Name": "ProductCore"
-		  }
-	]
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
   }
 }

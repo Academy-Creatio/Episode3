@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c6517b62-fee0-4dfb-b6b7-18166f4538c9",
+    "Name": "UsrEpisode3InFolder",
+    "ModifiedOnUtc": "\/Date(1616593813000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Episode 3 in Folder"
+  }
+}

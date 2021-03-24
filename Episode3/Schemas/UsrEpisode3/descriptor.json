@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "171eecbe-de0f-46ad-bc7b-07064f462ead",
+    "Name": "UsrEpisode3",
+    "ModifiedOnUtc": "\/Date(1616593788000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Episode 3"
+  }
+}

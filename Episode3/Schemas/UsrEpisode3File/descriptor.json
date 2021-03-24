@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f02f77e8-a5ea-4149-8ed2-b6e2b2b8f147",
+    "Name": "UsrEpisode3File",
+    "ModifiedOnUtc": "\/Date(1616593798000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Episode 3 attachment"
+  }
+}
